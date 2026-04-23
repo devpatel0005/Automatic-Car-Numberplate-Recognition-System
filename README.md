@@ -6,7 +6,7 @@ This project detects license plates from images and videos, draws bounding boxes
 
 ## Author
 - Dev Dharmesh Patel
-- Email: devdpatel190905@gmail.com
+- Email: devdpatel0005@gmail.com
 - GitHub: https://github.com/devpatel0005
 
 ## Project Overview
