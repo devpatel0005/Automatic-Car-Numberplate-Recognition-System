@@ -8,13 +8,6 @@ PlateTrack AI takes you from model training to real-world deployment: it detects
 - Status: Successfully deployed
 - Live Demo: [Add your deployed project URL here](#)
 
-<<<<<<< HEAD
-=======
-## Author
-- Dev Dharmesh Patel
-- Email: devdpatel0005@gmail.com
-- GitHub: https://github.com/devpatel0005
->>>>>>> 7e11e5b6f150c2a2409b9fac7260b8b7fa49299f
 
 ## Project Overview
 PlateTrack AI is a completed end-to-end Automatic Number Plate Recognition (ANPR) project with three major parts:
