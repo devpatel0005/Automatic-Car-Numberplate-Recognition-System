@@ -6,7 +6,7 @@ PlateTrack AI takes you from model training to real-world deployment: it detects
 
 ## Deployed Project
 - Status: Successfully deployed
-- Live Demo: [Add your deployed project URL here](#)
+- Live Demo: https://platetrack-ai-hhdrpbs8arknapjcbsdt54.streamlit.app/
 
 
 ## Project Overview
